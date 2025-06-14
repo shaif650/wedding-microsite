@@ -1,0 +1,23 @@
+body {
+  background: #fdfaf6;
+  color: #4b2e00;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+nav a, .btn {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #c7a17a;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+.btn:hover {
+  background: #a98056;
+}
+.timer {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
